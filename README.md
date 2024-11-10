@@ -7,5 +7,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 ## Tasks
 Create the metrics according to the metrics list.
-Create a dashboard according to the requirements provided by stakeholders. 
+
+Create a dashboard according to the requirements provided by stakeholders.
+
 Create relevant insights not provided in the metric list/stakeholder meeting.
