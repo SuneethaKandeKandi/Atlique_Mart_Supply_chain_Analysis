@@ -11,3 +11,10 @@ Create the metrics according to the metrics list.
 Create a dashboard according to the requirements provided by stakeholders.
 
 Create relevant insights not provided in the metric list/stakeholder meeting.
+
+# Powerbi_Dashboard
+
+![Screenshot 2024-11-10 141858](https://github.com/user-attachments/assets/1c532b98-c26e-40c5-ad84-86b63cce605c)
+![Screenshot 2024-11-10 143424](https://github.com/user-attachments/assets/4e97b690-fcfa-45e3-a2f3-a627707437df)
+![Screenshot 2024-11-10 143526](https://github.com/user-attachments/assets/06222aad-efeb-43b0-9bc8-9669be903dbc)
+![Screenshot 2024-11-10 143606](https://github.com/user-attachments/assets/dd5ee92e-45f0-4984-92e6-3374c989c521)
